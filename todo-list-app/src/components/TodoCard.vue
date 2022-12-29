@@ -48,7 +48,7 @@ export default {
       <div>
         <h2
           v-if="todo.status === 'completed'"
-          class="border-2 border-green-500 px-2 rounded-lg font-bold text-green-500"
+          class="border-2 border-blue-500 px-2 rounded-lg font-bold text-blue-500"
         >
           {{ todo.status }}
         </h2>
