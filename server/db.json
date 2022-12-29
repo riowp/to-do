@@ -1,0 +1,16 @@
+{
+  "Todo": [
+    {
+      "title": "Belajar Vue JS",
+      "description": "Belajar menggunakan Vue js dengan memaksimalkan state management Pinia",
+      "status": "completed",
+      "id": 1
+    },
+    {
+      "title": "Makan Malam bersama teman",
+      "description": "makan malam akan di lakukan di tempat yang biasa di janjikan",
+      "status": "incomplete",
+      "id": 2
+    }
+  ]
+}
